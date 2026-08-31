@@ -1,4 +1,4 @@
-! Title: Centralized uBlock Origin Whitelist
+! Title: Sweet Thang's uBlock Origin Whitelist
 ! Description: Synced trusted sites and exceptions
 ! Expires: 1 days
 
